@@ -1,0 +1,9 @@
+Sunil_Achari 01fe21bcs295 Bijapur 1703 9.98
+Prashanth 01fe21bec268 Hubbali 1736 8.23
+Joliholli 01fe21bei061 Hubbali 1702 9.23
+Bhoomreddi 01fe21bcd152 Ulsoor 3256 9.75
+Jarkiholi 01fe21bnh256 Bihar 2568 8.62
+Bommaayi 01fe21bts598 Delhi 2658 7.23
+Alataffa 01fe21bcs265 Kerala 1459 8.32
+Shivanand 01fe21bec485 China 3265 7.35
+Rachanna 01fe21bei321 Halkat 9846 6.23
